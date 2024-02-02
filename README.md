@@ -2,7 +2,7 @@
 
 Este é um projeto de clone da página inicial da Microsoft, desenvolvido com HTML, CSS e JavaScript. O código reproduz a aparência e funcionalidades básicas da página principal da Microsoft, incluindo um menu responsivo, cards promocionais, seções específicas para diferentes produtos e links para diversas áreas do site.
 
-ma demonstração interativa do projeto está disponível no [CodePen](https://codepen.io/La-s-Lara/pen/wvOjgOx).
+Uma demonstração interativa do projeto está disponível no [CodePen](https://codepen.io/La-s-Lara/pen/wvOjgOx).
 
 ## Estrutura do Projeto
 
